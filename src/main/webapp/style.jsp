@@ -1,4 +1,5 @@
-    h2{
+<style> 
+h2{
     color: red;
 }
 h3{
@@ -7,3 +8,4 @@ h3{
 h4{
     color: yellow;
 }
+</style> 
