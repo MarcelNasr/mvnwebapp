@@ -1,5 +1,14 @@
 <html>
   <link rel="stylesheet" type="text/css" href="../webapp/style.css">
+  <style>    h2{
+    color: red;
+}
+h3{
+    color: red;
+}
+h4{
+    color: red;
+}</style>
 <body>
 <h2>Hello World!</h2>
   <h3>Sample Web Application built using Maven</h3>
