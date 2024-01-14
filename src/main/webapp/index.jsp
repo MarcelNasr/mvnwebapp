@@ -1,5 +1,4 @@
 <html>
-  <link rel="stylesheet" type="text/css" href="../webapp/style.css">
   <style>    h2{
     color: red;
 }
