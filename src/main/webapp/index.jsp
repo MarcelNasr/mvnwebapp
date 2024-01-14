@@ -1,5 +1,5 @@
 <html>
-  <link rel="stylesheet" href="../webapp/style.css">
+  <link rel="stylesheet" type="text/css" href="../webapp/style.css">
 <body>
 <h2>Hello World!</h2>
   <h3>Sample Web Application built using Maven</h3>
