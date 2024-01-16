@@ -3,10 +3,10 @@
     color: red;
 }
 h3{
-    color: blue;
+    color: green;
 }
 h4{
-    color: yellow;
+    color: brown;
 }</style>
 <body>
 <h2>Hello World!</h2>
