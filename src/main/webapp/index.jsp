@@ -1,12 +1,12 @@
 <html>
   <style>h2{
-    color: red;
+    color: green;
 }
 h3{
     color: green;
 }
 h4{
-    color: brown;
+    color: green;
 }</style>
 <body>
 <h2>Hello World!</h2>
