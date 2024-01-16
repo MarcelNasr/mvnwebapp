@@ -3,7 +3,7 @@
     color: red;
 }
 h3{
-    color: blue;
+    color: red;
 }
 h4{
     color: yellow;
