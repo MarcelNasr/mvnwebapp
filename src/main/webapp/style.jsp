@@ -12,4 +12,7 @@
     h4 {
        color: pink;
     }
+    p{
+      color: yellow;
+    }
 </style>
