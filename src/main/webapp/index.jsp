@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Centered Blocks</title>
-    <%@ include file="style.jsp" %>
+    <link rel="stylesheet" type="text/css" href="style.jsp">
 </head>
 <body>
     <div id="red" class="block" onclick="changeColor('gey', this)">grey</div>
     <div id="green" class="block" onclick="changeColor('green', this)">Green</div>
     <div id="blue" class="block" onclick="changeColor('blue', this)">Blue</div>
     <div id="yellow" class="block" onclick="changeColor('yellow', this)">Yellow</div>
-
-    <!-- <%@ include file="script.jsp" %> -->
+    <link rel="stylesheet" type="text/javascript" href="script.jsp">
+    <!-- <script src="script.jsp" type="text/javascript"></script> -->
 
 </body>
 </html>
