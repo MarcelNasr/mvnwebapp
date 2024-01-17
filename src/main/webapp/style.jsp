@@ -22,9 +22,9 @@
         user-select: none;
     }
 
-    #red { background-color: red; }
-    #green { background-color: green; }
-    #blue { background-color: blue; }
-    #yellow { background-color: purple; }
+    #red { background-color: blueviolet; }
+    #green { background-color: yellowgreen; }
+    #blue { background-color: goldenrod; }
+    #yellow { background-color: springgreen; }
 </style>
 
