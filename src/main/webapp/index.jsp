@@ -11,7 +11,7 @@
     <div id="green" class="block" onclick="changeColor('green', this)">Green</div>
     <div id="blue" class="block" onclick="changeColor('blue', this)">Blue</div>
     <div id="yellow" class="block" onclick="changeColor('yellow', this)">Yellow</div>
-    <link rel="stylesheet" type="text/javascript" href="sript.jsp">
+    <link rel="stylesheet" type="text/javascript" href="script.jsp">
 
 
 </body>
