@@ -23,8 +23,8 @@
     }
 
     #red { background-color: red; }
-    #blue { background-color: blue; }
     #green { background-color: green; }
+    #blue { background-color: blue; }
     #purple { background-color: purple; }
 </style>
 
