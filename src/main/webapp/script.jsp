@@ -1,4 +1,4 @@
-<%@ page contentType="text/script;charset=UTF-8" %>
+//<%@ page contentType="text/script;charset=UTF-8" %>
 <script>
     function changeColor(color, element) {
         // Reset opacity for all blocks
