@@ -13,5 +13,6 @@
     <div id="yellow" class="block" onclick="changeColor('yellow', this)">Yellow</div>
 
     <%@ include file="script.jsp" %>
+
 </body>
 </html>
