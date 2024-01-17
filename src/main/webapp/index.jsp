@@ -12,11 +12,7 @@
     <div id="blue" class="block" onclick="changeColor('blue', this)">Blue</div>
     <div id="yellow" class="block" onclick="changeColor('yellow', this)">Yellow</div>
     <link rel="stylesheet" type="text/javascript" href="script.jsp">
-<<<<<<< HEAD
     <!-- <script src="script.jsp" type="text/javascript"></script> -->
-=======
-
->>>>>>> refs/remotes/origin/master
 
 </body>
 </html>
