@@ -1,19 +1,17 @@
-<html>
-  <link rel="stylesheet" href="style.jsp">
-  <!-- <style>h2{
-    color: green;
-}
-h3{
-    color: green;
-}
-h4{
-    color: green;
-}</style> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Blocks</title>
+    <%@ include file="style.jsp" %>
+</head>
 <body>
-<h2>Hello World!</h2>
-  <h3>Sample Web Application built using Maven</h3>
-  <h4>Triggered by webhook on 06th July 2024!!</h4>
-  <p>hello it done successfully</p>
-  <p>finally done</p>
+    <div id="red" class="block" onclick="changeColor('red', this)">Red</div>
+    <div id="green" class="block" onclick="changeColor('green', this)">Green</div>
+    <div id="blue" class="block" onclick="changeColor('blue', this)">Blue</div>
+    <div id="yellow" class="block" onclick="changeColor('yellow', this)">Yellow</div>
+
+    <%@ include file="script.jsp" %>
 </body>
 </html>

@@ -1,18 +1,30 @@
 <%@ page contentType="text/css;charset=UTF-8" %>
 <style>
-    /* Your CSS styles go here */
-    
+   body {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 100vh;
+       margin: 0;
+   }
 
-    h1 {
-       color: pink;
-    }
-    h3 {
-       color: pink;
-    }
-    h4 {
-       color: pink;
-    }
-    p{
-      color: blue;
-    }
+   .block {
+       width: 100px;
+       height: 100px;
+       margin: 10px;
+       text-align: center;
+       line-height: 100px;
+       font-size: 18px;
+       color: white;
+       border-radius: 8px;
+       cursor: pointer;
+       transition: background-color 0.3s ease;
+       user-select: none; /* Disable text selection */
+   }
+
+   #red { background-color: red; }
+   #green { background-color: green; }
+   #blue { background-color: blue; }
+   #yellow { background-color: yellow; }
 </style>
+
