@@ -11,8 +11,22 @@
     <div id="green" class="block" onclick="changeColor('green', this)">Green</div>
     <div id="blue" class="block" onclick="changeColor('blue', this)">Blue</div>
     <div id="yellow" class="block" onclick="changeColor('yellow', this)">Yellow</div>
-    <link rel="stylesheet" type="text/javascript" href="script.jsp">
+    <!-- <link rel="stylesheet" type="text/javascript" href="script.jsp"> -->
     <!-- <script src="script.jsp" type="text/javascript"></script> -->
-
+    <script>
+        function changeColor(color, element) {
+            // Reset opacity for all blocks
+            const allBlocks = document.querySelectorAll('.block');
+            allBlocks.forEach(block => {
+                block.style.opacity = 1;
+            });
+    
+            // Change background color of the page
+            document.body.style.backgroundColor = color;
+    
+            // Adjust opacity for the clicked block
+            element.style.opacity = 0.5;
+        }
+    </script>
 </body>
 </html>
