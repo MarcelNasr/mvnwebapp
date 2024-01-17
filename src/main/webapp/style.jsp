@@ -3,7 +3,7 @@
     /* Your CSS styles go here */
     
 
-    h2 {
+    h1 {
        color: pink;
     }
     h3 {
