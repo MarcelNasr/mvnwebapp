@@ -9,7 +9,7 @@
 <body>
     <div id="red" class="block" onclick="changeColor('red', this)">red</div>
     <div id="green" class="block" onclick="changeColor('blue', this)">blue</div>
-    <div id="blue" class="block" onclick="changeColor('gree', this)">green</div>
+    <div id="blue" class="block" onclick="changeColor('green', this)">green</div>
     <div id="yellow" class="block" onclick="changeColor('purple', this)">purple</div>
     <!-- <link rel="stylesheet" type="text/javascript" href="script.jsp"> -->
     <!-- <script src="script.jsp" type="text/javascript"></script> -->
