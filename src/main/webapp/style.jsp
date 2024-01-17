@@ -13,6 +13,6 @@
        color: pink;
     }
     p{
-      color: yellow;
+      color: blue;
     }
 </style>
