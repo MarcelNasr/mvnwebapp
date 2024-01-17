@@ -7,12 +7,12 @@
     <%@ include file="style.jsp" %>
 </head>
 <body>
-    <div id="red" class="block" onclick="changeColor('red', this)">Red</div>
+    <div id="red" class="block" onclick="changeColor('gey', this)">grey</div>
     <div id="green" class="block" onclick="changeColor('green', this)">Green</div>
     <div id="blue" class="block" onclick="changeColor('blue', this)">Blue</div>
     <div id="yellow" class="block" onclick="changeColor('yellow', this)">Yellow</div>
 
-    <%@ include file="script.jsp" %>
+    <!-- <%@ include file="script.jsp" %> -->
 
 </body>
 </html>
